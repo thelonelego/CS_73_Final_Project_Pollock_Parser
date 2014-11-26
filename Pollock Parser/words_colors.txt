@@ -1,0 +1,1092 @@
+time yellow white 
+think white blue purple 
+people beige 
+day yellow orange green blue 
+man beige brown 
+woman beige brown 
+down black 
+world green blue brown 
+high blue white 
+old black brown 
+group beige 
+country green brown blue 
+start black white 
+American red white blue 
+water blue purple white 
+mother red pink 
+money green 
+study brown 
+book brown 
+black black 
+power red 
+bad black red 
+city black grey brown 
+white white 
+president red white blue 
+idea yellow 
+body beige brown 
+nothing black 
+stop red 
+war black red 
+grow green 
+morning yellow white blue 
+girl red pink 
+guy blue green 
+early yellow white blue 
+air white blue 
+foot beige brown 
+boy blue green 
+love red pink 
+buy green yellow 
+human beige brown 
+build black brown 
+death red black 
+kill black red 
+late black purple blue 
+hard black brown 
+field green brown 
+sell green yellow 
+development green 
+economic green yellow 
+heart red pink 
+drug brown green 
+light white blue 
+wife red 
+police red blue black 
+military red 
+price green yellow 
+son blue green 
+hope red 
+road black yellow 
+drive black yellow 
+arm beige brown 
+value green yellow 
+building black grey blue 
+paper white 
+space black 
+ground green brown 
+couple red 
+star yellow white orange red 
+oil black purple 
+cost green yellow 
+street black yellow 
+clear blue white 
+land green brown 
+baby blue yellow 
+computer black white 
+Republican blue 
+tree green brown 
+red red 
+window blue white 
+brother blue green 
+energy yellow 
+summer yellow orange red blue 
+plant green yellow brown 
+daughter red pink 
+husband blue green 
+economy green yellow 
+medical red 
+hospital red 
+church yellow 
+risk red 
+fire red yellow orange 
+bank green yellow 
+fight red 
+blood red 
+nature green blue brown 
+poor black brown 
+natural green blue brown 
+hot red orange yellow 
+dead black brown 
+shoot red 
+save white yellow blue 
+happy yellow 
+protect yellow 
+fund green yellow 
+disease red black 
+success green white yellow 
+growth green 
+loss purple black brown 
+attack red 
+herself red pink 
+pretty pink 
+outside green blue black brown 
+benefit yellow 
+sex red pink 
+environmental green blue brown 
+glass white blue 
+sister red pink 
+PM purple black blue 
+financial green yellow 
+crime black red 
+gun black 
+blue blue 
+clearly white blue 
+truth white yellow blue 
+democratic blue 
+environment green blue brown 
+dark black brown blue purple 
+enjoy yellow blue 
+cold blue 
+green green 
+Democrat blue 
+tonight blue purple black 
+weapon black red 
+peace white blue yellow 
+pain black red 
+fly blue white 
+fish blue purple 
+evening purple blue 
+worry red 
+deep purple black blue 
+fear red black 
+sea blue purple white green 
+dream purple 
+beautiful red pink 
+soldier green brown 
+reflect white blue 
+sexual pink red 
+heat red orange yellow 
+marriage red pink 
+tough green brown 
+machine brown grey black 
+gas black 
+cancer black 
+violence red black 
+investment green yellow 
+garden green yellow 
+positive yellow green blue white 
+shot black red 
+budget green yellow 
+wish white yellow 
+victim red 
+newspaper black white 
+threat red black 
+smile yellow 
+rich green 
+wind white blue 
+alone black 
+suffer black 
+successful green 
+fresh green 
+forest green 
+global green blue white brown 
+bird white yellow blue 
+income green 
+hurt red 
+sky white blue 
+freedom white blue yellow 
+powerful red 
+sleep purple blue 
+nuclear red yellow 
+conflict black red 
+spirit yellow white blue 
+British red blue 
+camp blue green brown 
+afternoon green orange 
+AM yellow blue orange 
+battle red 
+date red pink 
+African brown 
+hole black 
+stone grey black 
+ice white blue 
+boat blue 
+sun yellow orange red 
+wood brown 
+mountain green brown 
+winter white grey black 
+gold yellow 
+farm green brown 
+crowd grey brown beige 
+Christian yellow 
+horse brown 
+prison black 
+wild green 
+vehicle black grey 
+flight white blue 
+bright white yellow 
+protection yellow blue white 
+faith yellow 
+river blue grey 
+marry red 
+ear beige 
+folk beige brown 
+lift yellow white blue 
+competition black red 
+cry black blue purple 
+warm yellow orange red 
+failure black 
+Christmas red green white 
+affair red black 
+baseball green brown 
+egg white yellow 
+murder black red purple 
+religion yellow 
+coffee brown 
+speed yellow red 
+female red pink 
+youth yellow pink blue 
+wave blue 
+afraid black red 
+wonderful yellow 
+suit black 
+growing green 
+construction yellow brown 
+burn black red yellow 
+quiet grey green 
+bone white 
+active yellow orange 
+wine red 
+cool white blue 
+hell red black 
+dangerous black red 
+healthy green blue 
+justice yellow red 
+flower yellow orange red green 
+island green blue brown 
+hate red black 
+male blue green 
+alive blue green yellow white 
+football green brown 
+danger red yellow black 
+welcome green blue 
+rain purple blue black 
+desire red 
+injury red black 
+leaf green 
+pool blue 
+metal grey black 
+lip red pink beige 
+urban black grey 
+farmer green brown 
+planet green blue brown 
+favorite yellow red 
+explore green blue brown 
+enemy red 
+greatest yellow 
+soul white blue 
+mom red 
+married red 
+weather blue purple 
+emotional red pink 
+commitment pink 
+bear brown 
+temperature red yellow 
+surprise yellow 
+breath white blue 
+sight yellow red 
+aid red 
+trail brown green 
+storm black purple blue 
+fruit red purple orange 
+expensive green yellow 
+yellow yellow 
+shadow black purple 
+struggle red 
+package brown 
+difficulty red black 
+bridge grey blue 
+angry red 
+traffic red 
+earth green blue brown 
+chest beige 
+beauty red pink 
+emergency red 
+root brown 
+nose beige 
+sick green 
+Catholic yellow 
+wake yellow 
+warn red yellow 
+snow white 
+steal black 
+pursue black 
+soil brown green 
+surgery red 
+correct green 
+blame red 
+golf green 
+dad green blue 
+golden yellow 
+landscape green brown 
+ocean blue white purple 
+tooth white 
+attract red pink 
+tank black blue 
+nurse white 
+pleasure red 
+doubt red 
+industrial black grey brown 
+cloud white blue 
+winner yellow 
+seed green brown 
+surprised yellow orange 
+pepper red 
+busy red yellow orange 
+vegetable green yellow red 
+gray grey 
+beach beige blue 
+improvement yellow 
+terrible red black 
+oppose black 
+criminal black 
+tired grey black 
+holiday green red 
+abortion red 
+proud green yellow 
+flow blue 
+waste brown purple black 
+bomb black 
+invest green yellow 
+rural green brown 
+cream white 
+hill green 
+grass green 
+succeed yellow 
+celebrate yellow orange 
+achievement yellow 
+fishing blue green 
+accuse red black 
+talent yellow 
+milk white 
+campus green 
+acquire green yellow 
+honor yellow 
+depression grey black purple blue 
+spiritual yellow 
+prayer yellow 
+warning red yellow 
+climate green blue 
+payment green yellow 
+cigarette grey brown 
+creation green blue 
+graduate yellow 
+universe black 
+excellent yellow 
+lucky yellow 
+airline blue white 
+factory grey black 
+expense green 
+arrest black 
+funding green 
+therapy green yellow 
+wash blue 
+sad grey black purple 
+purchase green 
+steel grey 
+shout yellow 
+violent red black 
+silent white blue 
+wedding blue yellow 
+opponent red 
+lake blue 
+desert grey brown 
+error red 
+cop red black 
+sand beige 
+atmosphere blue purple white 
+discovery blue green 
+stream blue 
+sale green yellow 
+joke yellow orange 
+dust grey brown 
+breathe blue white 
+glad yellow 
+suicide grey black red 
+passion red pink 
+shock yellow red 
+inspire yellow 
+kiss red pink 
+illness black grey 
+disaster red black 
+championship green 
+mystery black purple 
+poverty brown grey black 
+king yellow 
+creature green 
+anger red black 
+disorder yellow red 
+holy yellow 
+luck green yellow 
+nervous black 
+bury brown 
+pray yellow 
+tomato red 
+journey green 
+smoke grey black 
+confront red 
+pure blue white 
+prisoner black 
+coast beige blue 
+silver grey 
+recovery yellow blue 
+whisper blue purple 
+gentleman black green 
+corn yellow 
+moon black grey 
+salary green yellow 
+crop green 
+dig brown 
+anxiety red 
+wet blue 
+embrace red 
+pink pink 
+grandmother red pink 
+stomach red 
+wooden brown 
+aggressive red black 
+false red black 
+quit black 
+absence black 
+jail black grey 
+quietly grey blue purple 
+wealth green 
+biological green blue 
+onion white yellow 
+mad red 
+award yellow 
+armed red black 
+terrorism black red 
+valuable green yellow 
+barrier black brown 
+killer red black 
+vacation blue green 
+heaven white blue yellow 
+rough black brown grey 
+yell yellow red 
+pregnant red beige 
+distant purple black 
+drama red 
+chocolate brown 
+darkness black purple 
+survival green 
+burden black brown 
+lost black 
+mechanism grey black 
+penalty red black 
+destruction grey black red 
+stranger purple black 
+infection beige red 
+broken black brown 
+apple red green 
+electric yellow 
+virus red 
+fortune yellow green 
+remarkable yellow 
+electricity yellow 
+slave black brown red 
+terror black red 
+elite yellow 
+Olympic yellow green 
+dirt brown 
+bullet black 
+solar yellow red orange 
+friendly red yellow 
+salad green 
+innocent white blue 
+satisfaction yellow 
+lover red pink 
+raw brown black 
+surprising yellow orange 
+withdraw black purple 
+deck brown 
+pride yellow orange 
+aircraft white blue 
+freeze white blue 
+finance green yellow 
+attractive red beige pink 
+joy yellow green 
+evolve green 
+shooting black red 
+crash red orange yellow black 
+terrorist black red 
+possess red purple black 
+swim blue 
+tire black 
+fault red black 
+assault red black 
+relax white blue 
+adventure green yellow red 
+confident yellow green 
+sudden yellow 
+dirty brown grey 
+violation red 
+tongue red beige 
+shelter green 
+tragedy purple blue grey black 
+funeral purple black blue 
+elderly grey 
+deer brown 
+violate red yellow 
+pollution grey brown black 
+nowhere black grey purple 
+exciting yellow red 
+Irish green 
+honey yellow 
+pale beige 
+leather brown 
+evolution green 
+ill green black 
+grandfather green blue 
+lawn green 
+buyer green yellow 
+celebrity yellow 
+scared black purple 
+shade black purple 
+palm green 
+economist green 
+celebration yellow 
+scheme black 
+crack red 
+tobacco grey black brown 
+wealthy green 
+galaxy black yellow 
+ski white 
+explosion red orange yellow 
+painful red 
+infant pink blue 
+scandal red 
+helpful blue 
+impress yellow blue 
+rifle black 
+organic green brown blue 
+cow black white 
+asleep purple blue 
+tennis green 
+bombing red orange black 
+humor yellow orange 
+loud yellow 
+agricultural green blue 
+explode red orange yellow 
+badly black grey 
+horizon blue red orange yellow 
+girlfriend red pink 
+romantic red pink 
+cotton white 
+float blue 
+jet blue white 
+orange orange 
+blade black red 
+medication red 
+cabin brown green 
+valley green brown 
+pine green brown 
+brilliant yellow orange 
+offensive grey red black 
+boom red orange yellow 
+God yellow blue white 
+successfully yellow green 
+shit brown 
+lemon yellow 
+economics green yellow 
+naked beige pink 
+wound red beige 
+shower blue 
+flesh beige brown 
+collapse black grey 
+comedy yellow orange 
+brush green brown 
+acid black purple brown 
+shore blue beige 
+artistic red blue green yellow orange 
+fighting red black 
+competitor red black 
+ugly brown grey purple 
+worried black purple grey 
+ghost black purple 
+awful red black brown 
+admire green yellow 
+miracle blue yellow white 
+exceed yellow 
+killing black red 
+lovely red pink 
+sin red black 
+charity green yellow 
+invasion red 
+piano black white 
+intensity red 
+concrete black grey 
+African-American brown 
+chase red yellow 
+brick red brown 
+horror black red 
+courage yellow green 
+pregnancy red pink beige 
+sacred yellow 
+uncle green blue 
+captain yellow 
+sigh blue 
+attribute beige 
+dare orange 
+homeless black 
+soccer orange 
+defendant green 
+tunnel black blue 
+fitness yellow orange 
+grave black blue green 
+abroad orange 
+architect orange 
+dramatically red 
+inquiry purple 
+rose red 
+surprisingly purple 
+decrease blue 
+indication green 
+anniversary yellow 
+alliance purple 
+hypothesis beige purple 
+boyfriend blue red 
+compose green beige 
+mess green beige 
+legend red blue yellow green 
+regulate red blue 
+adolescent yellow 
+shine yellow 
+norm blue red 
+upset black red 
+remark beige green 
+resign beige black 
+reward beige orange 
+gentle beige orange 
+related orange 
+lightly beige blue 
+concerning blue 
+invent beige green 
+laughter yellow 
+counseling orange 
+receiver orange 
+ritual green 
+interrupt green 
+salmon red 
+trading orange 
+magic yellow 
+superior yellow 
+combat orange red yellow 
+stem orange 
+surgeon orange 
+acceptable orange green 
+physics beige green 
+rape black blue red 
+counsel orange green 
+jeans blue 
+hunt red 
+continuous blue 
+log green 
+echo blue 
+pill blue red 
+excited yellow 
+flour beige 
+bitter green 
+presidency yellow blue red 
+subtle beige 
+greatly yellow red blue 
+drinking blue 
+acceptance yellow 
+candy red yellow 
+evil red black 
+pleased yellow 
+medal yellow 
+beg blue 
+slam red orange 
+experimental green beige 
+melt blue 
+integrity blue 
+evident green beige 
+logic green beige 
+essence green blue 
+exclude green blue red 
+harsh red 
+suburban beige blue 
+greet yellow 
+march yellow 
+snake red 
+excuse blue 
+weakness blue 
+pig yellow 
+classical yellow green 
+estimated green beige 
+T-shirt yellow 
+unemployment blue black 
+civilization yellow green blue red 
+missing blue 
+correlation green beige 
+humanity green blue yellow red 
+flash yellow 
+reliable yellow 
+excitement yellow orange green 
+beef yellow 
+Islam yellow 
+architecture green beige 
+administrative green blue 
+deadly red black 
+Hispanic yellow 
+allegation red 
+confuse blue green red 
+duck yellow 
+Korean red blue 
+plead blue 
+initiate yellow 
+lecture yellow 
+bay blue 
+mainstream beige 
+suburb beige 
+sandwich yellow 
+rumor yellow 
+motivate yellow orange 
+render green beige 
+trap red 
+restrict red beige 
+legislative red beige 
+effectiveness green beige 
+enforce red beige 
+lend blue 
+plain beige 
+fraud blue red 
+companion red blue green yellow 
+contend yellow 
+strict red beige 
+assemble green beige 
+frankly green 
+rat green 
+hay yellow 
+cave black 
+inevitable green beige 
+monster black 
+unexpected beige 
+obstacle yellow 
+facilitate green beige 
+rip red 
+herb green 
+overwhelming yellow 
+integration yellow green 
+crystal blue 
+recession blue green 
+written yellow 
+motive yellow 
+flood blue 
+nightmare black blue 
+inspection green beige 
+supervisor beige 
+consult green beige 
+arena red yellow 
+diagnosis green beige 
+forgive blue 
+basement blue black 
+drift blue 
+drain blue 
+prosecution red black blue 
+maximum green beige 
+announcement beige 
+warrior red yellow 
+prediction yellow 
+bacteria green beige 
+questionnaire green beige 
+mud green black 
+infrastructure blue 
+hurry red yellow 
+privilege red blue 
+temple yellow 
+outdoor green 
+broadcast blue 
+leap yellow 
+curtain red 
+pond blue 
+domain blue 
+guilt blue 
+cattle yellow 
+walking yellow blue 
+minimum green beige 
+fiscal green 
+skirt blue 
+database green beige 
+uncomfortable blue green 
+execute green beige red 
+limb red 
+ideology blue green 
+tune yellow green 
+continuing blue 
+harm red 
+endure red yellow 
+radiation red yellow 
+peaceful yellow green 
+innovation green beige 
+strain red yellow 
+administer green beige 
+simultaneously green beige 
+amendment green beige 
+await green 
+retired blue 
+spill blue 
+grateful yellow green 
+grace yellow 
+virtual green beige 
+colony yellow beige 
+indigenous green 
+convict red blue 
+modify green beige 
+particle green beige 
+prize yellow 
+landing yellow 
+boost red yellow 
+alarm red yellow 
+festival yellow green blue red 
+undermine green beige 
+freshman green 
+drunk green 
+traditionally green yellow 
+govern green yellow 
+intelligent green beige 
+ballot green yellow 
+rhetoric green 
+convinced orange 
+driving orange 
+vitamin orange 
+accommodate orange 
+praise yellow orange 
+injure red purple 
+wilderness green 
+endless green 
+mandate green yellow 
+respectively yellow green 
+uncertainty yellow 
+chaos yellow 
+mechanical green beige 
+canvas yellow 
+profound green beige 
+currency green 
+turkey yellow 
+astronomer green beige 
+corruption red blue black 
+doctrine green beige 
+compromise blue 
+horrible red 
+behavioral green beige 
+convey green beige 
+complexity green blue 
+relieve yellow purple 
+suspicion purple 
+health-care blue red 
+residence blue 
+meaningful blue 
+sidewalk beige 
+Olympics yellow red blue green 
+technological green beige 
+pleasant yellow 
+wow purple 
+suspend red 
+rebel red orange 
+frozen blue 
+spouse orange 
+fluid blue 
+resume green beige 
+theoretical green beige 
+promotion yellow 
+delicate blue 
+rebuild yellow 
+electrical yellow green 
+traveler yellow 
+compensation green 
+attraction red 
+dedicate yellow 
+scare blue red 
+transaction green 
+firmly red yellow 
+mild yellow 
+structural green 
+diagnose green beige 
+carbohydrate green 
+liberty yellow green 
+theology green 
+nonprofit green 
+handsome yellow 
+sum green 
+determination yellow 
+jazz yellow 
+opera yellow 
+wildlife green 
+punish red 
+equity green 
+teenage green 
+guidance green yellow 
+happiness yellow 
+repair green 
+gym yellow 
+endorse green yellow 
+exploration green yellow 
+generous orange 
+bath blue purple 
+thereby green purple 
+indicator green purple 
+sunlight yellow orange 
+feedback green 
+purple purple 
+laser red 
+bold yellow 
+reluctant purple 
+expertise green yellow 
+practically green 
+parade yellow 
+pizza yellow 
+hesitate purple 
+accounting green blue 
+bias green blue 
+huh blue 
+metaphor green 
+entity green 
+suffering blue 
+garbage blue 
+regulatory green purple 
+diplomatic green blue 
+elegant yellow 
+vanish blue 
+automatically green 
+necessity green 
+confess purple 
+racism red blue 
+starter green 
+banking green 
+casual purple 
+gravity green 
+hostage blue 
+popularity yellow 
+scary blue 
+equation green 
+angel yellow 
+rage red 
+disappointed blue 
+lonely blue 
+romance red 
+sexually yellow 
+sacrifice blue 
+slap red 
+toxic blue 
+grief blue 
+grin yellow 
+spectacular yellow 
+ruin blue purple 
+fascinating green beige 
+intimate purple 
+biology green 
+terrific yellow 
+teammate orange 
+cooperative green 
+whip red 
+tragic blue black 
+mathematics green beige 
+mechanic green beige 
+earthquake purple green 
+pork yellow 
+incredibly yellow 
+isolation blue 
+sexy red 
+entrepreneur green 
+ambition yellow 
+ambitious yellow 
+statistical green beige 
+lion yellow green red 
+royal red yellow 
+cocaine red blue black 
+appreciation yellow 
+tumor blue 
+elephant yellow blue 
+custody blue 
+beast blue black 
+shark yellow blue 
+desperately purple 
+confrontation red 
+colorful red blue yellow green purple orange black 
+Thanksgiving yellow orange 
+wheat yellow 
+kingdom green beige yellow 
+marketplace yellow 
+terrain green 
+jungle green 
+migration green 
+hurricane green blue 
+curiosity green beige 
+robot green beige 
+well-being yellow orange 
+ecosystem green 
+strictly green red 
+monkey green yellow 
+mentor yellow 
+lightning green 
+disappointment blue 
+disturb purple 
+embarrassed purple blue 
+eligible yellow 
+chill blue 
+refuge yellow 
+cheer yellow 
+thrive green yellow orange 
+steak yellow 
+calculation green beige 
+mortality black 
+philosophical green 
+goat yellow 
+blessing yellow 
+banana yellow 
+palace green yellow orange 
+brutal red 
+predator red 
+unhappy grey black purple 
+exhaust grey 
+globe blue green brown 
+overnight purple black 
+fantastic yellow 
+warmth red orange yellow 
+cruel red black purple 
+grape purple 
+charm red pink 
+sexuality red pink 
+clay beige 
+balloon red blue white 
+ego green 
+rehabilitation green yellow 
+rubber black 
+spark yellow 
+fatigue blue purple grey 
+confession black purple 
+disturbing black red 
+devastating black purple 
+depart black 
+trauma red 
+soak blue 
+harvest green yellow brown 
+spy black 
+sovereignty yellow 
+brave yellow green 
+lighting yellow 
+frustrate red 
+dense purple black brown 
+sunny yellow orange 
+swell red beige 
+accusation red 
+soften blue white 
+terribly black purple 
+bride red pink 
+hazard yellow red 
+economically green yellow 
+troubled red 
+delight yellow orange 
+timber brown 
+flying white blue 
+sustainable green 
+devil red 
+bolt yellow 
+seller green yellow 
+marine blue purple white 
+dock blue beige 
+fog black grey 
+boring grey 
+fatal black 
+butterfly red yellow orange 
+bronze yellow brown 
+drown blue purple black 
+spit green brown 
+vacuum white
+sun red yellow orange
+white white
+red red
+roses red green

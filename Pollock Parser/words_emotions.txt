@@ -1,0 +1,587 @@
+time anticipation 
+think anticipation 
+when anticipation 
+take anticipation disgust 
+see surprise joy anticipation 
+want anticipation 
+day joy 
+no disgust 
+give joy trust 
+good joy trust 
+child joy 
+work anger 
+high joy 
+family joy trust 
+leave anticipation fear 
+old fear sadness 
+great joy trust 
+problem anger disgust fear anticipation 
+start anticipation 
+might anticipation 
+show anticipation 
+play joy 
+night fear 
+believe anticipation 
+today anticipation 
+happen anticipation 
+next anticipation 
+home joy trust 
+mother joy trust love 
+young joy anticipation 
+friend joy trust 
+father joy trust love 
+away anticipation 
+power surprise 
+hour anticipation 
+game joy 
+bad fear disgust sadness anger 
+lose anger sadness 
+almost anticipation 
+best joy surprise 
+idea anticipation 
+together trust 
+follow trust 
+parent trust joy love 
+war sadness disgust fear anger 
+party joy surprise 
+grow anticipation joy 
+morning joy 
+love love 
+die fear sadness 
+death fear sadness 
+kill anger disgust fear joy 
+raise trust 
+care trust love 
+development anticipation 
+strong trust joy 
+heart love joy 
+light joy trust 
+wife love trust 
+police surprise 
+military trust 
+son love trust 
+hope anticipation 
+thank joy trust 
+receive joy 
+season anticipation 
+special surprise 
+couple trust love 
+baby love joy 
+brother love trust 
+energy surprise 
+summer joy 
+opportunity anticipation 
+daughter love trust 
+husband love trust 
+hospital anticipation 
+church joy 
+risk anticipation 
+wrong disgust 
+security trust 
+fight anger surprise 
+blood fear disgust 
+nature joy 
+poor sadness 
+natural joy 
+dead fear anger disgust 
+shoot fear anger 
+save trust joy surprise 
+happy joy 
+protect trust joy 
+lie anger disgust surprise 
+dog joy surprise 
+pressure anticipation 
+disease fear anger disgust sadness 
+success joy 
+growth anticipation joy 
+loss sadness surprise 
+attack fear 
+pretty joy 
+fail disgust 
+sex love 
+sister love trust 
+crime fear anger 
+miss sadness 
+gun anger disgust 
+dark fear sadness 
+laugh joy 
+enjoy joy 
+cold sadness 
+weapon anger fear 
+peace joy trust 
+pain fear disgust 
+fly joy 
+worry anticipation fear 
+trouble anticipation fear disgust sadness 
+fear fear 
+sexual love 
+tough trust 
+sing joy 
+cancer anger disgust fear sadness 
+violence fear anger disgust 
+positive joy 
+shot fear 
+wish anticipation trust 
+victim fear sadness disgust 
+threat fear 
+smile joy 
+travel joy anticipation 
+alone fear sadness 
+suffer fear sadness 
+successful joy surprise 
+safety trust 
+hurt disgust anger sadness 
+powerful trust 
+perfect joy 
+nuclear anticipation fear 
+conflict anger 
+spirit joy trust 
+encourage trust 
+argument anger 
+battle anticipation anger 
+beginning anticipation 
+date love 
+sorry sadness 
+crisis fear surprise 
+refuse anger 
+gain surprise joy 
+Christian trust 
+strength joy trust 
+prison sadness anger 
+guard trust 
+leadership trust 
+earn anticipation joy 
+protection trust 
+marry love 
+tomorrow anticipation 
+survive joy 
+lift trust 
+cry sadness 
+warm joy trust 
+failure anger surprise 
+affair love 
+soft joy 
+murder anger disgust fear 
+religion trust joy 
+afraid fear 
+wonderful joy surprise 
+deny surprise anger disgust 
+growing joy 
+destroy sadness disgust anger 
+mistake surprise disgust 
+active joy 
+hell fear anger disgust sadness 
+dangerous anticipation fear 
+victory joy surprise 
+healthy joy 
+negative disgust sadness 
+hate anger disgust 
+danger anticipation fear 
+welcome joy 
+favorite joy 
+explore anticipation joy 
+enemy disgust anger 
+greatest joy 
+mom love trust 
+married love trust 
+weather anticipation 
+commitment love trust 
+bear fear 
+surprise surprise 
+advice trust 
+storm fear 
+union love trust 
+struggle anger 
+angry anger 
+accident fear disgust sadness surprise 
+beauty love 
+emergency fear anticipation 
+sick sadness disgust 
+Catholic joy trust 
+wake anticipation 
+warn anticipation fear 
+steal anger surprise 
+surgery fear 
+blame anger 
+dad love trust 
+appeal joy 
+complain disgust anger sadness 
+attract love 
+confidence trust 
+nurse trust 
+pleasure love 
+fun joy 
+expectation anticipation 
+doubt anticipation 
+winner joy surprise 
+surprised surprise 
+improvement joy trust 
+terrible disgust anger 
+oppose anger 
+criminal disgust 
+holiday joy 
+abortion fear 
+proud joy 
+bomb fear disgust 
+AIDS fear anger sadness 
+succeed joy surprise 
+celebrate joy surprise 
+achievement joy surprise 
+accuse anger 
+useful trust 
+reject sadness anger 
+talent joy 
+guilty disgust anger sadness 
+honor joy surprise 
+criticism anger disgust 
+depression sadness 
+spiritual joy trust 
+prayer trust 
+graduate joy 
+emotion anger anticipation disgust fear joy sadness surprise trust love 
+scream anger fear surprise 
+excellent surprise 
+lucky surprise 
+arrest anger 
+therapy trust 
+sad sadness 
+shout surprise 
+violent anger disgust fear 
+wedding love joy 
+opponent anger 
+saving trust joy 
+discovery surprise 
+joke joy 
+symptom fear anticipation 
+glad joy 
+suicide anger disgust sadness 
+passion love 
+shock surprise 
+inspire trust joy 
+kiss love 
+illness sadness disgust 
+disaster fear sadness disgust 
+complaint disgust 
+championship trust 
+anger anger 
+holy joy trust 
+luck surprise 
+nervous anticipation 
+bury sadness 
+pray trust sadness 
+journey anticipation 
+confront surprise 
+prisoner sadness 
+fellow trust 
+birthday joy 
+recovery joy surprise 
+anxiety fear anticipation 
+embrace love trust 
+secure trust 
+grandmother love trust 
+aggressive anger 
+absence sadness fear 
+jail sadness fear 
+honest trust 
+mad anger disgust 
+award joy surprise 
+armed fear anticipation 
+terrorism fear anticipation disgust anger 
+killer fear anger disgust 
+vacation joy 
+heaven joy 
+pregnant love 
+drama anticipation 
+survival trust joy 
+burden sadness fear 
+lost sadness 
+destruction fear anger sadness 
+virus fear anticipation 
+stupid disgust 
+fortune joy 
+remarkable surprise 
+slave sadness disgust 
+terror anger fear 
+friendly trust joy 
+satisfaction joy surprise 
+lover love 
+surprising surprise 
+pride joy 
+attractive love 
+joy joy 
+evolve joy 
+shooting anger disgust fear 
+crash fear 
+terrorist fear anger disgust 
+possess fear 
+fault disgust 
+assault fear anger disgust 
+relax joy 
+adventure joy 
+confident trust 
+sudden surprise 
+violation surprise 
+shelter trust 
+tragedy sadness 
+funeral sadness 
+ill disgust 
+grandfather love trust 
+scared fear anticipation 
+celebration joy surprise 
+scheme anticipation 
+survivor joy surprise 
+painful disgust anger sadness 
+scandal surprise disgust 
+helpful joy trust 
+impress surprise 
+bombing fear surprise anger 
+humor joy 
+explode surprise 
+badly disgust 
+girlfriend love 
+romantic love 
+sue anger disgust 
+offensive anger disgust 
+successfully surprise joy 
+wound fear disgust 
+collapse fear sadness 
+comedy joy 
+seize surprise fear 
+wise trust 
+frustration anger disgust 
+fighting anger 
+competitor anger 
+worried fear 
+awful disgust 
+admire trust joy 
+miracle surprise 
+killing fear disgust sadness 
+lovely love 
+sin disgust 
+charity trust 
+invasion surprise fear 
+chase surprise 
+horror fear disgust 
+courage trust 
+pregnancy love 
+defeat surprise 
+sacred trust 
+uncle trust 
+captain joy trust 
+sigh sadness 
+attribute trust 
+dare trust anticipation 
+homeless sadness fear 
+soccer trust 
+defendant trust fear 
+tunnel fear anticipation 
+fitness joy love 
+grave sadness fear 
+virtue trust love 
+abroad anticipation 
+architect anticipation 
+dramatically surprise 
+inquiry trust surprise 
+rose love 
+surprisingly surprise 
+anniversary trust love 
+alliance trust 
+hypothesis trust anticipation surprise 
+boyfriend love trust 
+legend anticipation 
+adolescent anticipation 
+upset disgust anger 
+reward anticipation 
+gentle trust 
+related trust 
+concerning fear 
+invent anticipation joy 
+laughter joy 
+counseling trust 
+receiver anticipation trust 
+ritual anticipation 
+interrupt disgust 
+trading trust 
+magic anticipation joy surprise 
+superior joy 
+combat anger 
+surgeon trust 
+rape disgust fear anger 
+counsel trust 
+hunt anticipation 
+excited joy surprise 
+bitter disgust 
+rent trust 
+presidency trust anticipation 
+acceptance joy trust love 
+candy joy 
+evil disgust anger fear 
+pleased joy 
+medal joy 
+beg fear sadness 
+sponsor trust 
+ethical trust 
+melt anticipation 
+midnight anticipation fear 
+integrity trust 
+greet joy 
+snake fear 
+weakness fear 
+unemployment fear anticipation 
+civilization joy anticipation 
+missing fear 
+humanity joy trust 
+reliable trust 
+excitement surprise joy 
+Islam love 
+allegation anticipation fear 
+airplane anticipation 
+plead sadness 
+initiate anticipation 
+rumor anticipation fear 
+trap surprise 
+lend trust 
+companion trust love 
+contend anger 
+monster fear 
+unexpected surprise 
+rip anger 
+overwhelming surprise 
+recession sadness 
+flood sadness 
+nightmare fear surprise 
+arena anger
+forgive trust 
+warrior joy anticipation 
+privilege joy sadness 
+guilt sadness 
+uncomfortable fear 
+endure anticipation 
+peaceful joy 
+await anticipation trust 
+grateful trust joy 
+adoption joy 
+bat fear 
+festival joy 
+enthusiasm joy 
+praise joy 
+injure anger sadness 
+respectively trust joy 
+corruption anger fear 
+apologize trust 
+genuine trust 
+unity trust 
+horrible disgust 
+suspicion disgust 
+health-care joy 
+meaningful trust joy 
+Olympics joy anticipation 
+pleasant joy 
+wow surprise 
+spouse trust love 
+promotion joy 
+rebuild anticipation 
+traveler anticipation 
+attraction trust love 
+dedicate trust 
+scare fear surprise 
+anxious fear 
+handsome joy 
+promising trust 
+determination anticipation 
+punish anger sadness 
+teenage anticipation 
+guidance trust 
+happiness joy 
+destination anticipation 
+exploration joy 
+generous joy 
+sunlight joy 
+reluctant fear 
+parade joy anticipation 
+hesitate fear 
+suffering sadness 
+vanish surprise 
+confess trust 
+racism anger sadness 
+hostage fear anticipation 
+popularity joy 
+alien fear 
+scary fear 
+angel trust love 
+rage anger 
+disappointed sadness 
+tender trust love 
+lonely sadness 
+romance love 
+sexually love anticipation joy 
+toxic sadness 
+grief sadness 
+grin joy 
+spectacular joy 
+ruin sadness 
+intimate love 
+terrific joy 
+teammate trust 
+cooperative trust 
+whip anger 
+tragic sadness 
+incredibly surprise 
+isolation sadness 
+sexy anticipation 
+ambition anticipation joy 
+ambitious anticipation joy 
+cocaine disgust 
+appreciation joy 
+tumor sadness 
+custody sadness 
+beast fear 
+shark fear 
+desperately sadness 
+confrontation anger 
+Thanksgiving trust joy love 
+wheat joy 
+hurricane fear 
+well-being joy trust 
+mentor trust 
+lightning fear 
+disappointment sadness 
+disturb anger 
+refuge joy 
+cheer joy 
+thrive joy 
+mortality sadness 
+blessing joy trust 
+grandparent love 
+brutal anger 
+predator fear 
+unhappy sadness 
+fantastic surprise joy 
+warmth trust love 
+cruel anger disgust 
+charm love 
+sexuality love 
+frown sadness anger 
+rehabilitation trust 
+confession sadness 
+defender trust 
+disturbing disgust 
+devastating sadness disgust fear 
+depart sadness 
+trauma fear sadness 
+brave trust 
+frustrate anger disgust 
+sunny joy 
+accusation anger 
+terribly disgust 
+bride love 
+hazard anticipation fear 
+troubled fear anticipation 
+delight joy 
+devil fear disgust 
+fatal anticipation fear 
+drown fear 
+spit disgust
+sun joy
+roses love
+pleasing joy trust 

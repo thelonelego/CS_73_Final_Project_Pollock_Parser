@@ -1,0 +1,149 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf140
+{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid2\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid3\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li2160\lin2160 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid101\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+{\info
+{\author Matt Rossi}}\margl1440\margr1440\vieww13900\viewh15020\viewkind0
+\deftab720
+\pard\pardeftab720\sl340
+
+\f0\b\fs30 \cf0 \expnd0\expndtw0\kerning0
+\ul \ulc0 Analyzed_Text Class
+\b0\fs24 \expnd0\expndtw0\kerning0
+\ulnone \
+\pard\pardeftab720\sl340
+
+\b\fs30 \cf0 \expnd0\expndtw0\kerning0
+Unigram Dictionary
+\b0\fs24 \expnd0\expndtw0\kerning0
+\
+
+\fs30 \expnd0\expndtw0\kerning0
+Gets a unigram dictionary on the test, and ignores a bunch of special characters
+\fs24 \expnd0\expndtw0\kerning0
+\
+
+\b\fs30 \expnd0\expndtw0\kerning0
+Count Variable
+\fs24 \expnd0\expndtw0\kerning0
+\
+
+\b0\fs30 \expnd0\expndtw0\kerning0
+Keeps a total word count
+\fs24 \expnd0\expndtw0\kerning0
+\
+
+\b\fs30 \expnd0\expndtw0\kerning0
+Positive_Count & Negative_Count
+\fs24 \expnd0\expndtw0\kerning0
+\
+
+\b0\fs30 \expnd0\expndtw0\kerning0
+Using the provided corpora of positive and negative terms, gets a count of the total number of positive words and the total number of negative words (used to determine whether or not the text is positive)
+\fs24 \expnd0\expndtw0\kerning0
+\
+
+\b\fs30 \expnd0\expndtw0\kerning0
+Color_Dictionary & Emotion_Dictionary
+\fs24 \expnd0\expndtw0\kerning0
+\
+
+\b0\fs30 \expnd0\expndtw0\kerning0
+We took a corpus with the 4000 most common English words and manually associated each with a group of colors and/or emotions, then generated two text files that had words mapped to emotions and words mapped to colors. The get_emot_color_dicts function then went through these files and returned dictionaries of that information.\
+
+\b \expnd0\expndtw0\kerning0
+Colors_To_RGB
+\b0\fs24 \expnd0\expndtw0\kerning0
+\
+
+\fs30 \expnd0\expndtw0\kerning0
+We manually looked up two color wheels and inputted corresponding RGB values into a text file. The colors_to_RGB function went through these text files and made a dictionary mapping colors to RGB values
+\fs24 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720\sl340
+
+\b\fs30 \cf0 \expnd0\expndtw0\kerning0
+\ul Draw Pollock Function
+\b0\fs24 \expnd0\expndtw0\kerning0
+\ulnone \
+\pard\pardeftab720\sl340
+
+\b\fs30 \cf0 \expnd0\expndtw0\kerning0
+Color Averager
+\fs24 \expnd0\expndtw0\kerning0
+\
+
+\b0\fs30 \expnd0\expndtw0\kerning0
+Takes a list of colors as input (so the colors associated with any single word) and averages them
+\fs24 \expnd0\expndtw0\kerning0
+\
+
+\b\fs30 \expnd0\expndtw0\kerning0
+Emotion_To_Colors
+\b0\fs24 \expnd0\expndtw0\kerning0
+\
+
+\fs30 \expnd0\expndtw0\kerning0
+For each word, we see what emotion is it associated with. Using a paper from the Institute for Information Technology in Ontario, we looked up the most common three colors associated with each emotion and assigned them in a dictionary to each emotion. The function returns a random color associated with each emotion.\
+
+\b \expnd0\expndtw0\kerning0
+Drawing
+\b0 \expnd0\expndtw0\kerning0
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl340
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+We first paint the background according to whether the text has an overall positive or negative connotation\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}Then we loop through each word in the unigram dictionary\
+{\listtext	3.	}Depending on how many times we saw a particular word, we do the following:\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl340
+\ls1\ilvl1\cf0 {\listtext	
+\f1 \uc0\u8259 
+\f0 	}If the word has colors associated with it\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl340
+\ls1\ilvl2\cf0 {\listtext	
+\f1 \uc0\u8259 
+\f0 	}Get the average of the colors associated with it\
+{\listtext	
+\f1 \uc0\u8259 
+\f0 	}Randomly paint either an ellipse, a rectangle, a triangle, or a line with random coordinates and size\
+{\listtext	
+\f1 \uc0\u8259 
+\f0 	}Then repeat the process for each of the distinct colors associated with each word\
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sl340
+\ls1\ilvl1\cf0 {\listtext	
+\f1 \uc0\u8259 
+\f0 	}If the word has emotions associated with it\
+\pard\tx1660\tx2160\pardeftab720\li2160\fi-2160\sl340
+\ls1\ilvl2\cf0 {\listtext	
+\f1 \uc0\u8259 
+\f0 	}Draw three random shapes with three random colors associated with each emotion\
+\pard\tx220\tx720\tx1440\tx2160\pardeftab720\li720\fi-720\sl340
+\ls1\ilvl0\cf0 {\listtext	4.	}We repeat this process until all the words are drawn and the number of drawn_words is greater than 1000, which gives us a good density\
+\pard\tx720\tx1440\tx2160\pardeftab720\sl340
+
+\b \cf0 \expnd0\expndtw0\kerning0
+\
+\ul Other Features
+\b0 \ulnone \
+\pard\tx220\tx720\tx1440\tx2160\pardeftab720\li720\fi-720\sl340
+\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 {\listtext	
+\f1 \uc0\u8259 
+\f0 	}Window height and width vary according to the overall length of the text\
+\pard\tx220\tx720\tx1440\tx2160\pardeftab720\li720\fi-720\sl340
+\ls2\ilvl0\cf0 {\listtext	
+\f1 \uc0\u8259 
+\f0 	}Prevailing emotion determines the prevailing emotion in the text\expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720\sl340
+
+\fs24 \cf0 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+\cf0 \expnd0\expndtw0\kerning0
+\
+}
